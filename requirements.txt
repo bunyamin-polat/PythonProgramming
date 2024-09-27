@@ -1,0 +1,7 @@
+ipykernel
+regex
+numpy
+pandas
+matplotlib
+seaborn
+-e .

@@ -8,7 +8,7 @@
 ### [07-File Handling](https://github.com/bunyamin-polat/PytyonProgramming/tree/main/07-File_Handling)
 ### [08-Exception Handling](https://github.com/bunyamin-polat/PytyonProgramming/tree/main/08-Exception_Handling)
 ### [09-Object Oriented Programming](https://github.com/bunyamin-polat/PytyonProgramming/tree/main/09-Object_Oriented_Programming)
-### [10-Advance Python Concepts](https://github.com/bunyamin-polat/PytyonProgramming/tree/main/09-Advance_Python_Concepts)
+### [10-Advance Python Concepts](https://github.com/bunyamin-polat/PytyonProgramming/tree/main/10-Advance_Python_Concepts)
 ### [11-Recursion](https://github.com/bunyamin-polat/PytyonProgramming/tree/main/11-Recursion)
 ### [Practice Notebooks](https://github.com/bunyamin-polat/PytyonProgramming/tree/main/Practice)
 

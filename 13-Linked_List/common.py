@@ -27,3 +27,18 @@ def take_input_better():
         value = int(input('Enter the value of the node: '))
         
     return head
+
+def create_ll_from_list(values):
+    head = None
+    tail = None
+    
+    for value in values:
+        new_node = Node(value)
+        if head is None:
+            head = new_node
+            tail = new_node
+        else:
+            tail.next = new_node # Link the new node to the end of the list
+            tail = new_node # Update tail to the new node
+            
+    return head

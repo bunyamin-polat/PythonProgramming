@@ -10,6 +10,14 @@ def print_LL(head):
         temp = temp.next
     print("None")
 
+def length_LL(head):
+    temp = head # Assign head to temp to avoid changing head
+    count = 0
+    while temp is not None:
+        count += 1
+        temp = temp.next   
+    return count
+
 def take_input_better():
     value = int(input('Enter the value of the node: '))
     head = None

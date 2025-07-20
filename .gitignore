@@ -8,7 +8,6 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-.vscode/
 build/
 develop-eggs/
 dist/
@@ -164,3 +163,7 @@ cython_debug/
 
 # MacOS
 .DS_Store
+
+# Visual Studio Code
+.vscode/
+.vscode

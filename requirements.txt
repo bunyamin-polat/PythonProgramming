@@ -5,3 +5,5 @@ pandas
 matplotlib
 seaborn
 -e .
+requests
+bs4

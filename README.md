@@ -31,6 +31,7 @@ The aim is to provide a practical roadmap from zero to mastery — starting with
 - [20-Dynamic Programming](20-Dynamic_Programming/)
 - [21-Multi Threading and Multi Processing](21-Multi_Threading_and_Multi_Processing/)
 - [22-Logging in Python](22-Logging_in_Python/)
+- [23-Memory Management](23-Memory_Management/)
 - [Practice](Practice/) — Exercises and practice notebooks
 - [src](src/) — Helper modules / source code (if any)
 
